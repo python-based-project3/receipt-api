@@ -2,8 +2,10 @@
 
 >MySQL based API, 한글 영수증 이미지를 OCR로 읽어 DB 저장
 
-<img width="250" height="259" alt="receipt" src="https://github.com/user-attachments/assets/3a18b7a5-01e6-4ec4-a910-0104cca994a4" />
-<img width="550" height="259" alt="스크린샷 2026-04-15 오후 6 07 50" src="https://github.com/user-attachments/assets/62c0b06b-d7c7-43c3-865e-07dd84741a91" />
+</br>
+
+<img width="260" height="300" alt="receipt" src="https://github.com/user-attachments/assets/3a18b7a5-01e6-4ec4-a910-0104cca994a4" />
+<img width="550" height="350" alt="스크린샷 2026-04-15 오후 6 07 50" src="https://github.com/user-attachments/assets/62c0b06b-d7c7-43c3-865e-07dd84741a91" />
 
 ---
 
